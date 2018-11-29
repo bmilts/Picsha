@@ -740,6 +740,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable cam
 drawable cast_album_art_placeholder
 drawable cast_album_art_placeholder_large
 drawable cast_expanded_controller_actionbar_bg_gradient_light
@@ -1043,6 +1044,7 @@ id icon_uri
 id icon_view
 id ifRoom
 id image
+id imageView
 id index_entity_types
 id info
 id instant_message
@@ -1053,12 +1055,14 @@ id intent_data_id
 id intent_extra_data
 id italic
 id large_icon_uri
+id layout
 id light
 id line1
 id line3
 id listMode
 id list_item
 id loading_indicator
+id loginTextView
 id logo_only
 id main_container
 id match_global_nicknames
@@ -1081,6 +1085,7 @@ id notification_main_column_container
 id omnibox_title_section
 id omnibox_url_section
 id parentPanel
+id passwordEditText
 id place_autocomplete_clear_button
 id place_autocomplete_powered_by_google
 id place_autocomplete_prediction_primary_text
@@ -1125,6 +1130,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signUpButton
 id slide
 id spacer
 id split_action_bar
@@ -1167,6 +1173,7 @@ id uniform
 id up
 id url
 id useLogo
+id usernameEditText
 id wide
 id withText
 id wrap_content

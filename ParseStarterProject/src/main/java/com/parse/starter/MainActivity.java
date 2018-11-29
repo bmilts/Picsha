@@ -12,8 +12,10 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Switch;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
@@ -32,7 +34,29 @@ import com.parse.SignUpCallback;
 import java.util.List;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+
+    // Sign up or login
+    Boolean signUpModeActive = true;
+    TextView loginTextView;
+
+  @Override
+  public void onClick(View v) {
+    if(v.getId() == R.id.loginTextView){
+
+        Button signUpButton = findViewById(R.id.signUpButton);
+
+        if(signUpModeActive){
+            signUpModeActive = false;
+            signUpButton.setText("Login");
+            loginTextView.setText("or, Sign Up");
+        } else {
+            signUpModeActive = true;
+            signUpButton.setText("Sign Up");
+            loginTextView.setText("or, Login");
+        }
+    }
+  }
 
   // Respond to Sign up OnClick
   public void signUpClicked(View view){
@@ -42,28 +66,43 @@ public class MainActivity extends AppCompatActivity {
     EditText passwordEditText = findViewById(R.id.passwordEditText);
 
     // Check if user has entered text into both fields otherwise prompt the user
-    if (usernameEditText.getText().toString() == "" || passwordEditText.getText().toString() == ""){
+    if (usernameEditText.getText().toString().matches("") || passwordEditText.getText().toString().matches("")){
       // Prompt user for text
       Toast.makeText(this, "A username and a password are required.", Toast.LENGTH_SHORT).show();
     } else {
+        // Sign up mode
+        if(signUpModeActive){
+          // User has entered a user name and password
+          ParseUser user = new ParseUser();
+          user.setUsername(usernameEditText.getText().toString());
+          user.setPassword(passwordEditText.getText().toString());
 
-      // User has entered a user name and password
-      ParseUser user = new ParseUser();
-      user.setUsername(usernameEditText.getText().toString());
-      user.setPassword(passwordEditText.getText().toString());
-
-      user.signUpInBackground(new SignUpCallback() {
-        @Override
-        public void done(ParseException e) {
-          if(e == null){
-            //Ok
-            Log.i("Signup", "Success");
-          } else {
-            // Log short error message to user
-            Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
+          user.signUpInBackground(new SignUpCallback() {
+            @Override
+            public void done(ParseException e) {
+              if(e == null){
+                //Ok
+                Log.i("Signup", "Success");
+              } else {
+                // Log short error message to user
+                Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
           }
         }
       });
+    } else {
+            // Login mode
+            ParseUser.logInInBackground(usernameEditText.getText().toString(), passwordEditText.getText().toString(), new LogInCallback() {
+                @Override
+                public void done(ParseUser user, ParseException e) {
+                    if(user != null){
+                        Log.i("Login", "Ok!");
+                    } else {
+                        Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
+                    }
+                }
+            });
+
+        }
     }
   }
 
@@ -72,106 +111,8 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-
-
-    // SIGN UP
-
-    /*ParseUser user = new ParseUser();
-
-    user.setUsername("brendan");
-    user.setPassword("myPass");
-
-    user.signUpInBackground(new SignUpCallback() {
-      @Override
-      public void done(ParseException e) {
-        if(e == null){
-          Log.i("Sign up ok", "We did it!");
-        }else {
-          e.printStackTrace();
-        }
-      }
-    });*/
-
-    // LOGIN
-
-      /*ParseUser.logInInBackground("brendan", "myPass", new LogInCallback() {
-          @Override
-          public void done(ParseUser user, ParseException e) {
-              if (user != null){
-                  Log.i("Success", "We logged in");
-              } else {
-                  e.printStackTrace();
-              }
-          }
-      });*/
-
-      // LOG OUT USER
-    /*ParseUser.logOut();
-
-      // CHECK FOR LOGGED IN USER
-      // IF equal to null no-one logged in
-      if(ParseUser.getCurrentUser() != null){
-        Log.i("Signed In", ParseUser.getCurrentUser().getUsername());
-      } else {
-          Log.i("Awww Snap", "Not signed in");
-      } */
-
-    /*// Specific query
-    query.whereEqualTo("score","susan");
-    query.setLimit(1);
-
-    // Call all objects
-    query.findInBackground(new FindCallback<ParseObject>() {
-      @Override
-      public void done(List<ParseObject> objects, ParseException e) {
-        if(e == null){
-          if(objects.size() >0){
-            for(ParseObject object : objects){
-              Log.i("username", object.getString("username"));
-              Log.i( "score",Integer.toString(object.getInt("score")));
-            }
-          }
-        }
-      }
-    });*/
-
-    // ** Sending to Parse **
-    /*ParseObject score = new ParseObject("Score");
-    // Add properties to score object
-    score.put("username", "susan");
-    score.put("score", 65);
-
-    // Send object to parse
-    score.saveInBackground(new SaveCallback() {
-      @Override
-      public void done(ParseException e) {
-        if(e == null){
-          // Ok
-          Log.i("Success", "We saved the score");
-        } else {
-          e.printStackTrace();
-        }
-      }
-    });
-
-    // ** Getting from Parse
-    /*ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
-
-    // Parse callback
-    query.getInBackground("5gu3FGiOta", new GetCallback<ParseObject>() {
-      @Override
-      public void done(ParseObject object, ParseException e) {
-        if (e == null && object != null){
-          // getString/Int/
-
-          object.put("score", 85);
-          object.saveInBackground();
-
-          Log.i( "username",object.getString("username"));
-          Log.i( "score",Integer.toString(object.getInt("score")));
-        }
-      }
-    });*/
+    loginTextView = findViewById(R.id.loginTextView);
+    loginTextView.setOnClickListener(this);
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
