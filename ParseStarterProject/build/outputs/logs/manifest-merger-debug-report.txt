@@ -1,15 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\eb3c8852bd7b709afcb6ce8f2f965adb\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\dd36ea02adb2adbd0bc770adc76197bd\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\908534e63dfac2b9da2dcae63cd97fa1\AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a275f89391ec9fba7ef2472ce4d19967\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:multidex:1.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\dac4d416e97e56fd7d8a5f474e77bbeb\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eea3911f820c5252133f5a40174a09cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\51e2e9cec7ecb84d2db17ddc931fa204\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\c8effd503a6aff39d6ba26658969e2f8\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\8e966ea2e826dd58f3cc69c992c23d1a\AndroidManifest.xml:16:1-33:12
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\10411d41e7bc709cc10d22a0fc45e6c7\AndroidManifest.xml:16:1-28:12
@@ -57,27 +59,27 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\mirro\.gr
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\96258cf328b3ebd22adc1377d86c74b2\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\22d8cae587af9bc8b740beabb1a72b48\AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\09d17a6bc8a9fe377e23fcea45a8d917\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\ab7b4c99fd6df7ce82eca28a33973ab3\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\4e5cf07f89a505cb551b45dc46f00fb0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c77b99c4222244e46c45e8b1173110d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3035b4f736b5fc61a409f75e89cfde2f\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\145eb6415306d407a5de92cd545f7544\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 	package
 		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 		INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 		INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
@@ -136,11 +138,11 @@ ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseSta
 	android:name
 		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:5-79
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:22-76
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
 application
-ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:5-36:19
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:5-33:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\eb3c8852bd7b709afcb6ce8f2f965adb\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\eb3c8852bd7b709afcb6ce8f2f965adb\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\dd36ea02adb2adbd0bc770adc76197bd\AndroidManifest.xml:5:5-9:19
@@ -151,6 +153,10 @@ MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\mirro\.gradle\c
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a275f89391ec9fba7ef2472ce4d19967\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a275f89391ec9fba7ef2472ce4d19967\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eea3911f820c5252133f5a40174a09cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eea3911f820c5252133f5a40174a09cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\51e2e9cec7ecb84d2db17ddc931fa204\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\51e2e9cec7ecb84d2db17ddc931fa204\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\8e966ea2e826dd58f3cc69c992c23d1a\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\8e966ea2e826dd58f3cc69c992c23d1a\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\10411d41e7bc709cc10d22a0fc45e6c7\AndroidManifest.xml:27:5-20
@@ -227,46 +233,50 @@ MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mirro
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\22d8cae587af9bc8b740beabb1a72b48\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\09d17a6bc8a9fe377e23fcea45a8d917\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\09d17a6bc8a9fe377e23fcea45a8d917\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\ab7b4c99fd6df7ce82eca28a33973ab3\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\ab7b4c99fd6df7ce82eca28a33973ab3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\4e5cf07f89a505cb551b45dc46f00fb0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\4e5cf07f89a505cb551b45dc46f00fb0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c77b99c4222244e46c45e8b1173110d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c77b99c4222244e46c45e8b1173110d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3035b4f736b5fc61a409f75e89cfde2f\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3035b4f736b5fc61a409f75e89cfde2f\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\145eb6415306d407a5de92cd545f7544\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\145eb6415306d407a5de92cd545f7544\AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:9-41
 	android:icon
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
 	android:allowBackup
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:23:9-40
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
 activity#com.parse.starter.MainActivity
-ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:25:9-33:20
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:13-45
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:13-41
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:17-69
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:25-66
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:31:17-77
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:31:27-74
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:19-51
 uses-sdk
 INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\mirro\OneDrive\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
@@ -283,6 +293,10 @@ MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\mirro\.gradle\cac
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a275f89391ec9fba7ef2472ce4d19967\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:multidex:1.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\dac4d416e97e56fd7d8a5f474e77bbeb\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:multidex:1.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\dac4d416e97e56fd7d8a5f474e77bbeb\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eea3911f820c5252133f5a40174a09cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eea3911f820c5252133f5a40174a09cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\51e2e9cec7ecb84d2db17ddc931fa204\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\51e2e9cec7ecb84d2db17ddc931fa204\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\c8effd503a6aff39d6ba26658969e2f8\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\c8effd503a6aff39d6ba26658969e2f8\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\8e966ea2e826dd58f3cc69c992c23d1a\AndroidManifest.xml:23:5-42
@@ -377,16 +391,16 @@ MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mirro
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\22d8cae587af9bc8b740beabb1a72b48\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\09d17a6bc8a9fe377e23fcea45a8d917\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\09d17a6bc8a9fe377e23fcea45a8d917\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\ab7b4c99fd6df7ce82eca28a33973ab3\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\ab7b4c99fd6df7ce82eca28a33973ab3\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\4e5cf07f89a505cb551b45dc46f00fb0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\4e5cf07f89a505cb551b45dc46f00fb0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c77b99c4222244e46c45e8b1173110d\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c77b99c4222244e46c45e8b1173110d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3035b4f736b5fc61a409f75e89cfde2f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3035b4f736b5fc61a409f75e89cfde2f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\145eb6415306d407a5de92cd545f7544\AndroidManifest.xml:21:5-23:58
@@ -417,18 +431,20 @@ ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\
 		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\dd36ea02adb2adbd0bc770adc76197bd\AndroidManifest.xml:8:18-90
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a275f89391ec9fba7ef2472ce4d19967\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\51e2e9cec7ecb84d2db17ddc931fa204\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\51e2e9cec7ecb84d2db17ddc931fa204\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\09d17a6bc8a9fe377e23fcea45a8d917\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\09d17a6bc8a9fe377e23fcea45a8d917\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\ab7b4c99fd6df7ce82eca28a33973ab3\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\ab7b4c99fd6df7ce82eca28a33973ab3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\4e5cf07f89a505cb551b45dc46f00fb0\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\4e5cf07f89a505cb551b45dc46f00fb0\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c77b99c4222244e46c45e8b1173110d\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c77b99c4222244e46c45e8b1173110d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\bab6dc3b5ad67e9670210584c0c1f716\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\4b48cc8152d5b7c2ed8162beff06e7ce\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3035b4f736b5fc61a409f75e89cfde2f\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3035b4f736b5fc61a409f75e89cfde2f\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\mirro\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\145eb6415306d407a5de92cd545f7544\AndroidManifest.xml:26:9-28:38

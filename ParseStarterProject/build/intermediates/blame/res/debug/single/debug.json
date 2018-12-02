@@ -2876,6 +2876,10 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_places_ic_search.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\5098bd2e52214f3ad556e40c5b8fd780\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
     },
