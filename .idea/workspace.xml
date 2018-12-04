@@ -9,6 +9,9 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java" line="112" mnemonic="1" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
@@ -16,27 +19,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe668a23-ddf0-43d6-a9c3-ba1dfab8f877" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_user_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/share_menu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/constraint/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/constraint/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreui/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/coreutils/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/fragment/R.java" afterDir="false" />
@@ -46,76 +40,51 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v4/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/appcompat/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/mediarouter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/mediarouter/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/recyclerview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/recyclerview/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/parse/starter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/parse/starter/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/build-info/debug/build-info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$dimen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/compat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreui/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/fragment/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v4/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$bool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$dimen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$drawable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$id.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$integer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$layout.class" afterDir="false" />
@@ -124,15 +93,13 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$string.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/UserListActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/UserListActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/UserListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/UserListActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterDir="false" />
@@ -144,70 +111,45 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/main_resources/resources_ap" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/main_resources/resources_ap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$dimen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/compat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/constraint/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/constraint/R$id.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreui/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/coreutils/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/fragment/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/graphics/drawable/animated/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/mediacompat/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v4/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/mediarouter/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/recyclerview/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/MainActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/MainActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/google/android/gms/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/MainActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$bool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$dimen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$drawable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$id.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$integer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$layout.class" afterDir="false" />
@@ -216,15 +158,13 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$string.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/UserListActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/UserListActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/UserListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/parse/starter/UserListActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.crc" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_3.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_3.apk" afterDir="false" />
@@ -234,19 +174,10 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/symbols/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$dimen.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/MainActivity$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/MainActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/android/support/graphics/drawable/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/MainActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$bool.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$bool.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$color.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$color.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$dimen.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$drawable.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$id.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$integer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$integer.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$layout.dex" afterDir="false" />
@@ -255,61 +186,45 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$string.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/R.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/UserListActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/UserListActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/UserListActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/641/com/parse/starter/UserListActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$raw.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$raw.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/642/com/google/android/gms/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/643/android/support/constraint/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/643/android/support/constraint/R$id.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/fragment/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/graphics/drawable/animated/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/644/android/support/v7/appcompat/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/compat/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v4/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/646/android/support/v7/mediarouter/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/647/android/support/v7/recyclerview/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/647/android/support/v7/recyclerview/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/647/android/support/v7/recyclerview/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/647/android/support/v7/recyclerview/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/647/android/support/v7/recyclerview/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/647/android/support/v7/recyclerview/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/coreutils/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$attr.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/648/android/support/mediacompat/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$id.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$layout.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$styleable.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/661.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/661.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/649/android/support/coreui/R$style.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/1/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes2.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/2/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/3/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/4/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterDir="false" />
@@ -317,71 +232,45 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/7/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/8/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/9/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes2.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$dimen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/mediarouter/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$id.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$layout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/MainActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/MainActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/MainActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$bool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$dimen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$drawable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$id.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$integer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$layout.class" afterDir="false" />
@@ -390,13 +279,10 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$string.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$style.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$styleable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/UserListActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/UserListActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/UserListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/UserListActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -422,7 +308,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="500">
               <caret line="155" column="41" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
             </state>
           </provider>
@@ -430,10 +316,10 @@
       </file>
       <file leaf-file-name="activity_user_list.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_user_list.xml">
-          <provider editor-type-id="text-editor">
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="android-designer2">
+          <provider editor-type-id="text-editor">
             <state />
           </provider>
         </entry>
@@ -441,13 +327,26 @@
       <file leaf-file-name="UserListActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            <state relative-caret-position="517">
+              <caret line="79" column="60" lean-forward="true" selection-start-line="79" selection-start-column="60" selection-end-line="79" selection-end-column="60" />
               <folding>
-                <element signature="e#501#509#0" expanded="true" />
-                <element signature="e#1300#1520#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
+                <element signature="e#2822#2823#0" expanded="true" />
+                <element signature="e#1126#1134#0" expanded="true" />
+                <element signature="e#1559#2129#0" expanded="true" />
+                <element signature="e#2128#2129#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="share_menu.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/share_menu.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -464,8 +363,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="204">
+              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
             </state>
           </provider>
           <provider editor-type-id="android-manifest">
@@ -473,24 +372,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="1173">
               <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
             </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -513,6 +403,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -2686,6 +2583,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_user_list.xml" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/share_menu.xml" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java" />
       </list>
     </option>
@@ -2703,8 +2601,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2715,13 +2611,18 @@
             <path>
               <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
               <item name="ParseStarterProject" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
             </path>
             <path>
               <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
               <item name="ParseStarterProject" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="starter" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ParseStarterProject" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
@@ -2731,6 +2632,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2892,9 +2795,10 @@
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" weight="0.14610389" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32995737" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32900432" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.495283" weight="0.5314685" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.495283" weight="0.5313853" />
       <window_info anchor="bottom" id="Logcat" order="7" sideWeight="0.49520257" weight="0.32900432" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
@@ -2909,7 +2813,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Assistant" order="3" visible="true" weight="0.32985073" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Preview" order="4" weight="0.32995737" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2934,7 +2837,6 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.14610389" />
       <window_info anchor="right" id="Preview" order="9" weight="0.32995737" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
       <window_info anchor="right" id="Assistant" order="5" visible="true" weight="0.32985073" />
       <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49520257" weight="0.32900432" />
@@ -2948,6 +2850,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
     </layout-to-restore>
   </component>
@@ -2960,6 +2863,89 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="155" column="41" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_user_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/share_menu.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="78" lean-forward="true" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/StarterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#2822#2823#0" expanded="true" />
+            <element signature="e#1126#1134#0" expanded="true" />
+            <element signature="e#1559#2129#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
@@ -3003,13 +2989,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java">
@@ -3020,10 +3006,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
+      <provider editor-type-id="text-editor">
         <state />
       </provider>
     </entry>
@@ -3076,16 +3062,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/StarterApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -3094,22 +3070,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2492">
-          <caret line="359" selection-start-line="359" selection-end-line="359" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -3124,29 +3094,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_user_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="500">
           <caret line="155" column="41" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_user_list.xml">
-      <provider editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/share_menu.xml">
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
         <state />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.0.0/1a71cf8b3d2fda04f8b996dd93835bbc66b2dfb8/support-fragment-26.0.0-sources.jar!/android/support/v4/app/FragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/UserListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        <state relative-caret-position="517">
+          <caret line="79" column="60" lean-forward="true" selection-start-line="79" selection-start-column="60" selection-end-line="79" selection-end-column="60" />
           <folding>
-            <element signature="e#501#509#0" expanded="true" />
-            <element signature="e#1300#1520#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#2822#2823#0" expanded="true" />
+            <element signature="e#1126#1134#0" expanded="true" />
+            <element signature="e#1559#2129#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
           </folding>
         </state>
       </provider>

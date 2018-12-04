@@ -1,4 +1,4 @@
-#Sun Dec 02 14:25:31 GMT 2018
+#Tue Dec 04 19:30:17 GMT 2018
 base.0=C\:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex
