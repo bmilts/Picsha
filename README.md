@@ -6,7 +6,11 @@ Using Java, Android Studio, AWS EC2 and parse to build a photo sharing applicati
 
 ## Screenshots
 
-<img src="/titlepage.png"  width="325" /> <img src="/ml.png"  width="325" /> <img src="/ar.png"  width="325" /> 
+<img src="/login_signup.png"  width="150" /> <img src="/user_feed_activity.png"  width="150" /> 
+
+## Sample User Flow
+
+<img src="app_basic_userflow.gif" width="150" height="100" />
 
 ## Features
 
@@ -24,7 +28,9 @@ Using Java, Android Studio, AWS EC2 and parse to build a photo sharing applicati
 - Allow for geolocation functionality
 
 ## Known Issues or Bugs
-- Photo Scalling depinding on photo-size (See Below)
+- Photo Scalling depinding on photo-size 
+
+<img src="/scallin_issue.png"  width="150" />
 
 ## Project Information
 - category: Mobile Prototype
