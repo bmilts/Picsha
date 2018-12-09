@@ -1,12 +1,12 @@
 # Android Picsha Photo Application
-Application completed to learn Android programming while integrating AWS EC2 instance with basic photo sharing functionality
+Application completed to learn Android programming while integrating AWS EC2 instance with basic photo sharing functionality (Focus on operation functionality rather than UI).
 
 ## Description
 Using Java, Android Studio, AWS EC2 and parse to build a photo sharing application where users can sign up, login, upload and share photos
 
 ## Screenshots
 
-<img src="/login_signup.PNG"  width="240" /> <img src="/user_feed_activity.PNG"  width="240" /> 
+<img src="/login_signup.PNG"  width="240" /> <img src="/user_feed_activity.PNG"  width="240" /> <img src="/user_profile.PNG"  width="240" /> 
 
 ## Sample User Flow
 
