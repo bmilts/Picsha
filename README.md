@@ -6,7 +6,7 @@ Using Java, Android Studio, AWS EC2 and parse to build a photo sharing applicati
 
 ## Screenshots
 
-<img src="/login_signup.PNG"  width="300" /> <img src="/user_feed_activity.PNG"  width="300" /> 
+<img src="/login_signup.PNG"  width="260" /> <img src="/user_feed_activity.PNG"  width="260" /> 
 
 ## Sample User Flow
 
@@ -30,7 +30,7 @@ Using Java, Android Studio, AWS EC2 and parse to build a photo sharing applicati
 ## Known Issues or Bugs
 - Photo Scalling depinding on photo-size 
 
-<img src="/scallin_issue.PNG"  width="150" />
+<img src="/scalling_issue.PNG"  width="260" />
 
 ## Project Information
 - category: Mobile Prototype
