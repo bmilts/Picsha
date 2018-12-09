@@ -28,32 +28,32 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_pause_white_24.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-xxhdpi-v4\\quantum_ic_pause_white_24.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_medium_off_client.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\3014f6b7a3a5038e9e3c8d1d2dfecdb0\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_pause_white_24.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-xxhdpi-v4\\quantum_ic_pause_white_24.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw_gtm_analytics.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-analytics-impl-9.4.0.aar\\cdd0177349b8f23d7739713e29526a81\\res\\raw\\gtm_analytics"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_pause_grey600_48.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_48.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_route_off_mono_dark.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-mdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_pause_grey600_48.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_48.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_pause_white_24.png.flat",
@@ -80,12 +80,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_replay_30_white_36.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
@@ -144,12 +144,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_forward_30_white_24.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cast_disabled_light.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-mdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_forward_30_white_24.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
@@ -196,16 +196,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-mdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cast_disabled_light.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
-    },
-    {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color_common_plus_signin_btn_text_dark.xml.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cast_disabled_light.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_play_arrow_white_24.png.flat",
@@ -240,12 +236,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\bab6dc3b5ad67e9670210584c0c1f716\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_route_off_mono_dark.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_route_off_mono_dark.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cast_off_light.png.flat",
@@ -260,12 +256,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-mdpi\\ic_cast_on_1_light.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_volume_mute_white_36.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-mdpi-v4\\quantum_ic_volume_mute_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_play.png.flat",
@@ -284,16 +280,16 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\145eb6415306d407a5de92cd545f7544\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cast_ic_notification_2.png.flat",
@@ -364,12 +360,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-mdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_route_on_1_mono_dark.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-xxhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -412,24 +408,24 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_ic_googleplayservices.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-mdpi-v4\\common_ic_googleplayservices.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_ic_googleplayservices.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-mdpi-v4\\common_ic_googleplayservices.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
@@ -468,12 +464,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\5098bd2e52214f3ad556e40c5b8fd780\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
@@ -624,12 +620,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_progress.xml.flat",
@@ -676,16 +672,16 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v17_mr_media_route_list_item.xml.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\layout-v17\\mr_media_route_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_volume_mute_grey600_36.png.flat",
@@ -736,20 +732,20 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -828,12 +824,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\908534e63dfac2b9da2dcae63cd97fa1\\res\\drawable-mdpi-v4\\cast_ic_notification_1.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_clear_white_24.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-mdpi-v4\\quantum_ic_clear_white_24.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_clear_white_24.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-mdpi-v4\\quantum_ic_clear_white_24.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -860,12 +856,12 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\drawable-xxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cast_on_1_light.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
-    },
-    {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cast_on_1_light.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_standard_off_client.png.flat",
@@ -976,16 +972,16 @@
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\2e0362a3d922f838bcb63316639c1045\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\145eb6415306d407a5de92cd545f7544\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_places_ic_clear.png.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\5098bd2e52214f3ad556e40c5b8fd780\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cast_dark.png.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\e0c5bdb51b4b0c36ebb2f9ad0216c2ae\\res\\drawable-hdpi\\ic_cast_dark.png"
     },
     {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_places_ic_clear.png.flat",
-        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\5098bd2e52214f3ad556e40c5b8fd780\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\145eb6415306d407a5de92cd545f7544\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
@@ -1938,10 +1934,6 @@
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_cast_expanded_controller_activity.xml.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\dd36ea02adb2adbd0bc770adc76197bd\\res\\layout\\cast_expanded_controller_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_cast_tracks_chooser_dialog_layout.xml.flat",
@@ -3158,10 +3150,6 @@
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
         "source": "C:\\Users\\mirro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\a275f89391ec9fba7ef2472ce4d19967\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\mirro\\OneDrive\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
