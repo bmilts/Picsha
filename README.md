@@ -19,8 +19,12 @@ Using Java, Android Studio, AWS EC2 and parse to build a photo sharing applicati
 * [AWS EC2](https://aws.amazon.com/ec2/)
 * [Parse](https://parseplatform.org/)
 
-## License
-TBD
+## Future Functionality
+- Allow for users to view own photos as well as others
+- Allow for geolocation functionality
+
+## Known Issues or Bugs
+- Photo Scalling depinding on photo-size (See Below)
 
 ## Project Information
 - category: Mobile Prototype
