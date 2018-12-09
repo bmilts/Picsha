@@ -138,6 +138,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+    setTitle("Picsha");
+
     loginTextView = findViewById(R.id.loginTextView);
     loginTextView.setOnClickListener(this);
 
